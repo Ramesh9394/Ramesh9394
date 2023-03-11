@@ -1,24 +1,38 @@
-<h1 align="center">Hi 👋, I'm Ramesh Vhanamane</h1>
-<h3 align="center">A passionate and Aspiring Data Scientist. An insatiable curiosity and ceaseless drive for seeking creative solutions has kept me abreast of the developments in the fields of programming and data science. Looking to leverage these underutilized and newly learned skills to work as a full time data analyst/scientist.</h3>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ramesh Vhanamane
+========================================================================================================================================
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ramesh9394&label=Profile%20views&color=0e75b6&style=flat" alt="ramesh9394" /> </p>
+Aspiring Data Scientist | Python | SQL | Machine Learning | Deep Learning | Power BI
+------------------------------------------------------------------------------------
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ramesh9394" alt="ramesh9394" /></a> </p>
+I'm a data science enthusiast with a passion for exploring and visualizing complex data sets. I recently completed an Executive PG in Data Science, where I gained hands-on experience in machine learning, statistical analysis, data visualization, and more.
 
-- 🌱 I’m currently learning **Machine Learning, Deep Learning Architectures, Computer Vision, Image Processing.**
-
-- 💬 Ask me about **Machine Learning, Deep Learning**
-
-- 📫 How to reach me **rameshv9394@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+*   🌍  I'm based in Pune, India
+*   ✉️  You can contact me at [rameshv9394@gmail.com](mailto:rameshv9394@gmail.com)
+*   🧠  I'm learning Deep Learning, Grafana
+*   🤝  I'm open to collaborating on Data Analysis & Predictive Analysis<a href="https://www.twitter.com/PATrader7" target="_blank" rel="noreferrer"><img
+                  src="https://img.shields.io/twitter/follow/PATrader7?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+                /></a>### Skills 
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/vhanamaneramesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/vhanamaneramesh" height="30" width="40" /></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
+<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ramesh9394&show_icons=true&locale=en&layout=compact" alt="ramesh9394" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ramesh9394&show_icons=true&locale=en" alt="ramesh9394" /></p>
+                    
+                  ### Socials
+                  
+                  
+                <p align="left">
+                          
+                      <a href="https://www.github.com/Ramesh9394" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+                          
+                      <a href="https://www.linkedin.com/in/vhanamaneramesh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+                          
+                      <a href="http://www.medium.com/@rameshv9394" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a>
+                          
+                      <a href="https://www.twitter.com/PATrader7" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
+                      href="http://www.github.com/Ramesh9394"><img src="https://github-readme-stats.vercel.app/api?username=Ramesh9394&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Ramesh9394's GitHub stats" /></a><a
+                      href="http://www.github.com/Ramesh9394"><img
+                  src="https://github-readme-streak-stats.herokuapp.com/?user=Ramesh9394&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
